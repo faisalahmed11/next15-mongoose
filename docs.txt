@@ -1,0 +1,10 @@
+1. pnpm i mongoose
+
+
+
+
+#1. Schema
+it defines the structure of the data.
+
+
+#1. Model
